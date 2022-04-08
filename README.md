@@ -9,6 +9,5 @@ $ cd turtle-tatics
 
 $ yarn install
 
-$yarn start
-
+$ yarn start
 ```
